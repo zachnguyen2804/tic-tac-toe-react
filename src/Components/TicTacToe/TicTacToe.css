@@ -47,6 +47,15 @@
   cursor: pointer;
 }
 
+.boxes img {
+  margin: 50px 50px;
+}
+
+.title img {
+  padding: 20px 20px;
+  height: 90px;
+}
+
 .row1 {
 }
 
